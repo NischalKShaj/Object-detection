@@ -1,4 +1,5 @@
 images
 labels
 .cache
-.fruit_dir
+/fruit_dir
+/predicted_images
